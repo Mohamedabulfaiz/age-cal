@@ -1,7 +1,7 @@
 // create function called ageCategory and function is trigged when button is click
 // get input from user 
 // if input is empty show error message
-// else print the display 
+// else print the display //
 
 var age = document.getElementById("age");
 var error = document.getElementById("error");
