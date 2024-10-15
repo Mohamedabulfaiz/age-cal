@@ -3,7 +3,6 @@
 // if input is empty show error message
 // else print the display 
 
-
 var age = document.getElementById("age");
 var error = document.getElementById("error");
 var display = document.getElementById("display");
